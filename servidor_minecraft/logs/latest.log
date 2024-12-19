@@ -203,3 +203,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19Dec2024 02:13:56.395] [Server thread/INFO] [Jade/]: Syncing config to Lukecito (1d659455-270c-3730-8352-82e46e9ee6ce)
 [19Dec2024 02:18:01.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito has made the advancement [Stone Age]
 [19Dec2024 02:19:11.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito has made the advancement [Getting an Upgrade]
+[19Dec2024 02:31:26.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukecito lost connection: Disconnected
+[19Dec2024 02:31:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito left the game
