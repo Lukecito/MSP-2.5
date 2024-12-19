@@ -228,3 +228,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19Dec2024 03:10:48.064] [Server thread/INFO] [tombstone/]: The player Lukecito has successfully been saved
 [19Dec2024 03:20:07.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito was slain by Naga
 [19Dec2024 03:20:07.146] [Server thread/INFO] [tombstone/]: The player Lukecito has successfully been saved
+[19Dec2024 03:27:34.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukecito lost connection: Disconnected
+[19Dec2024 03:27:34.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito left the game

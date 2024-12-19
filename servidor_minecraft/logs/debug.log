@@ -2463,3 +2463,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19Dec2024 03:20:07.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito was slain by Naga
 [19Dec2024 03:20:07.051] [Server thread/DEBUG] [tombstone/]: A new grave of the player Lukecito was created at position [x:1084, y:106, z:606, dim:minecraft:overworld]
 [19Dec2024 03:20:07.146] [Server thread/INFO] [tombstone/]: The player Lukecito has successfully been saved
+[19Dec2024 03:23:15.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 03:23:15.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 03:27:34.348] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukecito lost connection: Disconnected
+[19Dec2024 03:27:34.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito left the game
+[19Dec2024 03:28:15.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 03:28:15.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 03:33:15.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 03:33:15.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
