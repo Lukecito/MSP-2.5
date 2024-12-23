@@ -268,3 +268,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [23Dec2024 02:19:42.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito left the game
 [23Dec2024 02:19:42.342] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lukecito
 [23Dec2024 02:31:06.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexElverGalarga has made the advancement [Sweet Dreams]
+[23Dec2024 02:58:07.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lukecito[/100.65.249.30:53064] logged in with entity id 7699 at (2564.7230823452473, 122.0, 1750.658067935339)
+[23Dec2024 02:58:07.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito joined the game
+[23Dec2024 02:58:08.660] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Lukecito (18)
+[23Dec2024 02:58:08.661] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Lukecito
+[23Dec2024 02:58:11.572] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1d659455-270c-3730-8352-82e46e9ee6ce
+[23Dec2024 02:58:12.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1d659455-270c-3730-8352-82e46e9ee6ce
+[23Dec2024 02:58:12.575] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lukecito (1d659455-270c-3730-8352-82e46e9ee6ce) successfully connected to voice chat
