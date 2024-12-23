@@ -291,3 +291,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [23Dec2024 03:17:03.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jacques'/658, l='ServerLevel[world]', x=2449.67, y=99.00, z=1690.30] died: Jacques was slain by Zombie
 [23Dec2024 03:24:16.731] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lakendra'/641, l='ServerLevel[world]', x=2480.51, y=88.00, z=1651.51] died, message: 'Lakendra was slain by Zombie Villager'
 [23Dec2024 03:24:16.732] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lakendra'/641, l='ServerLevel[world]', x=2480.51, y=88.00, z=1651.51] died: Lakendra was slain by Zombie Villager
+[23Dec2024 03:33:12.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: owencito7w7[/100.124.88.98:50094] logged in with entity id 16015 at (2762.411379877129, 142.0, -413.3068769910727)
+[23Dec2024 03:33:12.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: owencito7w7 joined the game
+[23Dec2024 03:33:13.952] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of owencito7w7 (18)
+[23Dec2024 03:33:13.954] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to owencito7w7
+[23Dec2024 03:33:15.847] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ffafcfef-0b23-3226-bdd6-71cc78b64399
+[23Dec2024 03:33:16.848] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ffafcfef-0b23-3226-bdd6-71cc78b64399
+[23Dec2024 03:33:16.851] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player owencito7w7 (ffafcfef-0b23-3226-bdd6-71cc78b64399) successfully connected to voice chat
+[23Dec2024 03:34:21.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Myrtle'/16407, l='ServerLevel[world]', x=2379.34, y=94.00, z=1715.58] died, message: 'Myrtle was slain by Hydra'
+[23Dec2024 03:34:21.740] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Myrtle'/16407, l='ServerLevel[world]', x=2379.34, y=94.00, z=1715.58] died: Myrtle was slain by Hydra
+[23Dec2024 03:38:49.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lukecito[/100.65.249.30:50065] logged in with entity id 18430 at (2633.2530517230894, 125.86194934254362, 1746.1928570085204)
+[23Dec2024 03:38:49.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito joined the game
