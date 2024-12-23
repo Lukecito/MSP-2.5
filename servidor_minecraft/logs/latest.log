@@ -279,3 +279,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [23Dec2024 03:05:17.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Set the time to 1000]
 [23Dec2024 03:06:30.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Successfully filled 64 block(s)]
 [23Dec2024 03:07:29.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Successfully filled 64 block(s)]
+[23Dec2024 03:11:08.482] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1d659455-270c-3730-8352-82e46e9ee6ce timed out
+[23Dec2024 03:11:08.484] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lukecito
+[23Dec2024 03:11:08.487] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lukecito
+[23Dec2024 03:11:24.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukecito lost connection: Timed out
+[23Dec2024 03:11:24.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito left the game
+[23Dec2024 03:11:24.139] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lukecito
+[23Dec2024 03:16:59.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elana'/659, l='ServerLevel[world]', x=2449.70, y=99.00, z=1690.30] died, message: 'Elana was slain by Zombie'
+[23Dec2024 03:16:59.788] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elana'/659, l='ServerLevel[world]', x=2449.70, y=99.00, z=1690.30] died: Elana was slain by Zombie
+[23Dec2024 03:17:03.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jacques'/658, l='ServerLevel[world]', x=2449.67, y=99.00, z=1690.30] died, message: 'Jacques was slain by Zombie'
+[23Dec2024 03:17:03.786] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jacques'/658, l='ServerLevel[world]', x=2449.67, y=99.00, z=1690.30] died: Jacques was slain by Zombie
