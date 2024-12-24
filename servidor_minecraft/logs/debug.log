@@ -4995,3 +4995,9 @@ java.net.SocketException: Connection reset
 [24Dec2024 04:40:54.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Successfully filled 149 block(s)]
 [24Dec2024 04:41:36.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Successfully filled 146 block(s)]
 [24Dec2024 04:41:55.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Successfully filled 48 block(s)]
+[24Dec2024 04:45:28.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:45:28.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:50:28.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:50:28.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:55:28.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:55:28.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
