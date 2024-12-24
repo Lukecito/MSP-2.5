@@ -758,3 +758,7 @@ java.net.SocketException: Connection reset
 	at net.montoyo.wd.miniserv.server.Server.loopUnsafe(Server.java:176) ~[webdisplays-2.0.2-1.20.1.jar%23223!/:2.0.2-1.20.1]
 	at net.montoyo.wd.miniserv.server.Server.run(Server.java:117) ~[webdisplays-2.0.2-1.20.1.jar%23223!/:2.0.2-1.20.1]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[24Dec2024 04:37:10.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Successfully filled 2 block(s)]
+[24Dec2024 04:40:54.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Successfully filled 149 block(s)]
+[24Dec2024 04:41:36.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Successfully filled 146 block(s)]
+[24Dec2024 04:41:55.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Successfully filled 48 block(s)]
