@@ -4968,3 +4968,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [24Dec2024 04:05:28.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Dec2024 04:10:28.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Dec2024 04:10:28.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:15:28.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:15:28.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Dec2024 04:17:51.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlexElverGalarga lost connection: Disconnected
+[24Dec2024 04:17:51.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlexElverGalarga left the game
+[24Dec2024 04:17:51.843] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of AlexElverGalarga
+[24Dec2024 04:17:51.844] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlexElverGalarga
+[24Dec2024 04:17:55.089] [MiniServServer/WARN] [net.montoyo.wd.utilities.Log/]: Could not read data from client
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at net.montoyo.wd.miniserv.server.Server.loopUnsafe(Server.java:176) ~[webdisplays-2.0.2-1.20.1.jar%23223!/:2.0.2-1.20.1]
+	at net.montoyo.wd.miniserv.server.Server.run(Server.java:117) ~[webdisplays-2.0.2-1.20.1.jar%23223!/:2.0.2-1.20.1]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[24Dec2024 04:20:28.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Dec2024 04:20:28.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
