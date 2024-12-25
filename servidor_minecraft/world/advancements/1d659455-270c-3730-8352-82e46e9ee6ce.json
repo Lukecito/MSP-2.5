@@ -2665,6 +2665,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2024-12-25 04:27:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-12-25 04:10:48 +0000"
@@ -2710,6 +2716,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-25 04:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-25 04:19:01 +0000"
     },
     "done": true
   },

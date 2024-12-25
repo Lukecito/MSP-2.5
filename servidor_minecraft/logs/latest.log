@@ -287,3 +287,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [25Dec2024 04:20:07.082] [MiniServServer/INFO] [net.montoyo.wd.utilities.Log/]: Client with UUID ffafcfef-0b23-3226-bdd6-71cc78b64399 authenticated successfully
 [25Dec2024 04:20:07.660] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ffafcfef-0b23-3226-bdd6-71cc78b64399
 [25Dec2024 04:20:07.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player owencito7w7 (ffafcfef-0b23-3226-bdd6-71cc78b64399) successfully connected to voice chat
+[25Dec2024 04:21:37.565] [Server thread/WARN] [tombstone/]: The death event of the player owencito7w7 was canceled by another mod
+[25Dec2024 04:21:37.588] [Server thread/INFO] [tombstone/]: The player owencito7w7 has successfully been saved
+[25Dec2024 04:22:12.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Talitha'/1271, l='ServerLevel[world]', x=2486.42, y=97.77, z=1676.38] died, message: 'Talitha was slain by Tiger'
+[25Dec2024 04:22:12.296] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Talitha'/1271, l='ServerLevel[world]', x=2486.42, y=97.77, z=1676.38] died: Talitha was slain by Tiger
+[25Dec2024 04:23:39.790] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Joetta'/7238, l='ServerLevel[world]', x=2439.29, y=95.94, z=1659.72] died, message: 'Joetta was slain by Tiger'
+[25Dec2024 04:23:39.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Joetta'/7238, l='ServerLevel[world]', x=2439.29, y=95.94, z=1659.72] died: Joetta was slain by Tiger
+[25Dec2024 04:23:52.193] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cami'/7239, l='ServerLevel[world]', x=2439.13, y=96.00, z=1658.05] died, message: 'Cami was slain by Tiger'
+[25Dec2024 04:23:52.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cami'/7239, l='ServerLevel[world]', x=2439.13, y=96.00, z=1658.05] died: Cami was slain by Tiger
+[25Dec2024 04:24:06.492] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Stasia'/7240, l='ServerLevel[world]', x=2434.29, y=100.00, z=1634.40] died, message: 'Stasia was slain by Tiger'
+[25Dec2024 04:24:06.492] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Stasia'/7240, l='ServerLevel[world]', x=2434.29, y=100.00, z=1634.40] died: Stasia was slain by Tiger
+[25Dec2024 04:25:40.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: owencito7w7 has reached the goal [Listen directly]
+[25Dec2024 04:25:40.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: owencito7w7 has made the advancement [DJ! DJ!]
+[25Dec2024 04:27:22.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: owencito7w7 has made the advancement [Ambush]
+[25Dec2024 04:28:04.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukecito moved too quickly! 10.683228033460637,0.6204000246524686,-1.644478349352994
