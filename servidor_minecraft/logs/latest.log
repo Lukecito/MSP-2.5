@@ -302,3 +302,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [25Dec2024 04:27:22.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: owencito7w7 has made the advancement [Ambush]
 [25Dec2024 04:28:04.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukecito moved too quickly! 10.683228033460637,0.6204000246524686,-1.644478349352994
 [25Dec2024 04:32:45.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Set own game mode to Survival Mode]
+[25Dec2024 05:13:26.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Teleported Lukecito to owencito7w7]
+[25Dec2024 05:18:54.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ffafcfef-0b23-3226-bdd6-71cc78b64399 timed out
+[25Dec2024 05:18:54.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player owencito7w7
+[25Dec2024 05:18:54.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to owencito7w7
+[25Dec2024 05:18:54.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1d659455-270c-3730-8352-82e46e9ee6ce timed out
+[25Dec2024 05:18:54.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lukecito
+[25Dec2024 05:18:54.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lukecito
+[25Dec2024 05:19:06.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukecito lost connection: Timed out
+[25Dec2024 05:19:06.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito left the game
+[25Dec2024 05:19:06.798] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lukecito
+[25Dec2024 05:19:06.846] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Dec2024 05:19:09.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: owencito7w7 lost connection: Timed out
+[25Dec2024 05:19:09.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: owencito7w7 left the game
+[25Dec2024 05:19:09.251] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client owencito7w7
+[25Dec2024 05:19:10.360] [MiniServServer/INFO] [net.montoyo.wd.utilities.Log/]: Client 1d659455-270c-3730-8352-82e46e9ee6ce has timed out!
+[25Dec2024 05:19:12.363] [MiniServServer/INFO] [net.montoyo.wd.utilities.Log/]: Client ffafcfef-0b23-3226-bdd6-71cc78b64399 has timed out!

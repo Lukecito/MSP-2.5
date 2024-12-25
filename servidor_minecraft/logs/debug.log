@@ -4717,3 +4717,33 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [25Dec2024 05:02:51.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Dec2024 05:07:51.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Dec2024 05:07:51.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 05:12:51.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 05:12:51.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 05:13:26.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lukecito: Teleported Lukecito to owencito7w7]
+[25Dec2024 05:17:51.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 05:17:51.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 05:18:54.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ffafcfef-0b23-3226-bdd6-71cc78b64399 timed out
+[25Dec2024 05:18:54.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player owencito7w7
+[25Dec2024 05:18:54.073] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to owencito7w7
+[25Dec2024 05:18:54.073] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with owencito7w7
+[25Dec2024 05:18:54.073] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with owencito7w7
+[25Dec2024 05:18:54.073] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to owencito7w7
+[25Dec2024 05:18:54.074] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of ffafcfef-0b23-3226-bdd6-71cc78b64399 to disconnected: {disabled=false, disconnected=true, uuid=ffafcfef-0b23-3226-bdd6-71cc78b64399, name=owencito7w7, group=null}
+[25Dec2024 05:18:54.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 1d659455-270c-3730-8352-82e46e9ee6ce timed out
+[25Dec2024 05:18:54.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Lukecito
+[25Dec2024 05:18:54.076] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Lukecito
+[25Dec2024 05:18:54.076] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Lukecito
+[25Dec2024 05:18:54.076] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with Lukecito
+[25Dec2024 05:18:54.076] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Lukecito
+[25Dec2024 05:18:54.076] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of 1d659455-270c-3730-8352-82e46e9ee6ce to disconnected: {disabled=false, disconnected=true, uuid=1d659455-270c-3730-8352-82e46e9ee6ce, name=Lukecito, group=null}
+[25Dec2024 05:19:06.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukecito lost connection: Timed out
+[25Dec2024 05:19:06.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito left the game
+[25Dec2024 05:19:06.797] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Lukecito
+[25Dec2024 05:19:06.798] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lukecito
+[25Dec2024 05:19:06.846] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Dec2024 05:19:09.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: owencito7w7 lost connection: Timed out
+[25Dec2024 05:19:09.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: owencito7w7 left the game
+[25Dec2024 05:19:09.251] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of owencito7w7
+[25Dec2024 05:19:09.251] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client owencito7w7
+[25Dec2024 05:19:10.360] [MiniServServer/INFO] [net.montoyo.wd.utilities.Log/]: Client 1d659455-270c-3730-8352-82e46e9ee6ce has timed out!
+[25Dec2024 05:19:12.363] [MiniServServer/INFO] [net.montoyo.wd.utilities.Log/]: Client ffafcfef-0b23-3226-bdd6-71cc78b64399 has timed out!
