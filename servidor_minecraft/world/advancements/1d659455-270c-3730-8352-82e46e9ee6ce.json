@@ -2667,7 +2667,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2024-12-25 04:27:51 +0000"
+      "requirement": "2024-12-25 04:47:51 +0000"
     },
     "done": false
   },
@@ -2752,6 +2752,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-25 04:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-25 04:46:29 +0000"
     },
     "done": true
   },
