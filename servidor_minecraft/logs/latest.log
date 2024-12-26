@@ -253,3 +253,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [26Dec2024 01:16:58.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1d659455-270c-3730-8352-82e46e9ee6ce
 [26Dec2024 01:16:59.673] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1d659455-270c-3730-8352-82e46e9ee6ce
 [26Dec2024 01:16:59.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Lukecito (1d659455-270c-3730-8352-82e46e9ee6ce) successfully connected to voice chat
+[26Dec2024 02:18:36.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lukecito lost connection: Disconnected
+[26Dec2024 02:18:36.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lukecito left the game
+[26Dec2024 02:18:36.460] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Lukecito
